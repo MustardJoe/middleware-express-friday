@@ -31,5 +31,7 @@
     "superagent": "^5.1.0",
     "supertest": "^4.0.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
